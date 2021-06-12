@@ -3,6 +3,15 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>WinstonPuckett</Authors>
+    <Description>Easy independent clauses.</Description>
+    <PackageProjectUrl>https://github.com/winstonpuckett/WinstonPuckett.Fan</PackageProjectUrl>
+    <PackageIcon>icon.png</PackageIcon>
+    <RepositoryUrl>https://github.com/winstonpuckett/WinstonPuckett.Fan</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>functional, extensions, fluent</PackageTags>
+    <NeutralLanguage>en</NeutralLanguage>
+    <PackageReleaseNotes>Provides extension methods for fanning in serial, parallel, and asynchronously.</PackageReleaseNotes>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
