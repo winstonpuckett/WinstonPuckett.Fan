@@ -173,6 +173,3 @@ Although the idea for this package originated from my roots in technical writing
 
 - [Simon Painter describing the same thing](https://youtu.be/v7WLC5As6g4?t=810)
 - [Bash's FanAsync syntax (& operator)](https://datacadamia.com/lang/bash/process/ampersand#:~:text=Bash%20-%20Ampersand%20%28%26%29%20-%20%28Asynchronous%7CParallel%29%20control%20operator,3%204%20-%20Example%204%205%20-%20Process)
-
-As a side note, I cannot find a standard name for the idea. I've chosen "Fan" to describe what's going on, but if there is a standard name for this, let me know.
-
